@@ -155,4 +155,4 @@ This project is open source and available under the MIT License. Feel free to us
 
 ---
 
-**© 2024 Aaira Hatif. All rights reserved.**
+**© 2025 Aaira Hatif. All rights reserved.**
