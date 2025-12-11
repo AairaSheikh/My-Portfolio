@@ -4,7 +4,9 @@
 
 ## 👋 About Me
 
-I'm **Aaira Hatif**, a developer focused on creating clean, accessible, and performant digital experiences. With a passion for solving real-world problems through thoughtful design and robust code, I specialize in front-end development with a foundation in full-stack technologies.
+I'm **Aaira Hatif**, a developer focused on creating clean, accessible, and performant digital experiences. I believe that great software is about more than just code—it's about solving real problems for real people. With a background in development, I bring a unique perspective to engineering, ensuring that every project I touch is not only functional but intuitive and engaging.
+
+I specialize in front-end development, and I'm passionate about building systems that are scalable and easy to maintain.
 
 ## 💡 What I Do
 
@@ -16,7 +18,9 @@ I'm **Aaira Hatif**, a developer focused on creating clean, accessible, and perf
 ## 🚀 Featured Projects
 
 ### E-Commerce Dashboard
+
 **Role**: Frontend Developer
+
 - Real-time sales metrics tracking dashboard
 - Built with React and D3.js for data visualization
 - Firebase backend integration
@@ -25,7 +29,9 @@ I'm **Aaira Hatif**, a developer focused on creating clean, accessible, and perf
 **Tech Stack**: `React` • `D3.js` • `Firebase`
 
 ### Task Management App
+
 **Role**: Full Stack Developer
+
 - Collaborative tool designed for remote teams
 - Drag-and-drop interface with real-time synchronization
 - WebSocket implementation for live updates
@@ -33,7 +39,9 @@ I'm **Aaira Hatif**, a developer focused on creating clean, accessible, and perf
 **Tech Stack**: `Node.js` • `Socket.io` • `MongoDB`
 
 ### Portfolio Template
+
 **Role**: Designer & Developer
+
 - Minimal and accessible portfolio template for creative professionals
 - Fully responsive design with semantic HTML
 - Clean CSS and vanilla JavaScript
@@ -43,17 +51,20 @@ I'm **Aaira Hatif**, a developer focused on creating clean, accessible, and perf
 ## 💻 Tech Stack
 
 ### Languages
+
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Python
 
 ### Frameworks & Libraries
+
 - React
 - Next.js
 - Node.js
 
 ### Tools & Platforms
+
 - Git & GitHub
 - Figma
 - Webpack
@@ -93,6 +104,7 @@ My-Portfolio/
 ## 📱 Responsive Design
 
 The portfolio is fully responsive and works seamlessly across:
+
 - Desktop (1920px and above)
 - Tablet (768px - 1024px)
 - Mobile (320px - 767px)
@@ -100,6 +112,7 @@ The portfolio is fully responsive and works seamlessly across:
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - A modern web browser
 - No additional dependencies required
 
@@ -120,7 +133,7 @@ The portfolio is fully responsive and works seamlessly across:
    ```bash
    # Using Python 3
    python -m http.server 8000
-   
+
    # Using Node.js (with http-server)
    npx http-server
    ```
@@ -138,10 +151,10 @@ To customize this portfolio for your own use:
 
 Interested in collaborating or have questions? I'd love to hear from you!
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com)
+- **Email**: [aairasheikh66@gmail.com](mailto:aairasheikh66@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aaira-sheikh/)
 - **GitHub**: [GitHub Profile](https://github.com/AairaSheikh)
-- **Twitter**: [Twitter](https://twitter.com)
+- **Twitter**: [Twitter](https://twitter.com/)
 
 ## 📄 License
 
